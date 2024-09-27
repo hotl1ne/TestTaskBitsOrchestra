@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\testtask\\back\\testtask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A77C03E-615E-47A8-AD9C-2F9434551365}|testtask\\testtask.csproj|d:\\testtask\\back\\testtask\\testtask\\views\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A77C03E-615E-47A8-AD9C-2F9434551365}|testtask\\testtask.csproj|solutionrelative:testtask\\views\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A77C03E-615E-47A8-AD9C-2F9434551365}|testtask\\testtask.csproj|d:\\testtask\\back\\testtask\\testtask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A77C03E-615E-47A8-AD9C-2F9434551365}|testtask\\testtask.csproj|solutionrelative:testtask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A77C03E-615E-47A8-AD9C-2F9434551365}|testtask\\testtask.csproj|d:\\testtask\\back\\testtask\\testtask\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A77C03E-615E-47A8-AD9C-2F9434551365}|testtask\\testtask.csproj|solutionrelative:testtask\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A77C03E-615E-47A8-AD9C-2F9434551365}|testtask\\testtask.csproj|d:\\testtask\\back\\testtask\\testtask\\repository\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A77C03E-615E-47A8-AD9C-2F9434551365}|testtask\\testtask.csproj|solutionrelative:testtask\\repository\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A77C03E-615E-47A8-AD9C-2F9434551365}|testtask\\testtask.csproj|d:\\testtask\\back\\testtask\\testtask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A77C03E-615E-47A8-AD9C-2F9434551365}|testtask\\testtask.csproj|solutionrelative:testtask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A77C03E-615E-47A8-AD9C-2F9434551365}|testtask\\testtask.csproj|d:\\testtask\\back\\testtask\\testtask\\interfaces\\personinterface\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A77C03E-615E-47A8-AD9C-2F9434551365}|testtask\\testtask.csproj|solutionrelative:testtask\\interfaces\\personinterface\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A77C03E-615E-47A8-AD9C-2F9434551365}|testtask\\testtask.csproj|d:\\testtask\\back\\testtask\\testtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A77C03E-615E-47A8-AD9C-2F9434551365}|testtask\\testtask.csproj|solutionrelative:testtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\testtask\\back\\testtask\\testtask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "testtask\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\testtask\\back\\testtask\\testtask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "testtask\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T07:06:50.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\testtask\\back\\testtask\\testtask\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "testtask\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\testtask\\back\\testtask\\testtask\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "testtask\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:53:42.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\testtask\\back\\testtask\\testtask\\Views\\Person\\Index.cshtml",
+              "RelativeDocumentMoniker": "testtask\\Views\\Person\\Index.cshtml",
+              "ToolTip": "D:\\testtask\\back\\testtask\\testtask\\Views\\Person\\Index.cshtml",
+              "RelativeToolTip": "testtask\\Views\\Person\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T06:46:37.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "D:\\testtask\\back\\testtask\\testtask\\Repository\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "testtask\\Repository\\PersonRepository.cs",
+              "ToolTip": "D:\\testtask\\back\\testtask\\testtask\\Repository\\PersonRepository.cs",
+              "RelativeToolTip": "testtask\\Repository\\PersonRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:38:46.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\testtask\\back\\testtask\\testtask\\Program.cs",
+              "RelativeDocumentMoniker": "testtask\\Program.cs",
+              "ToolTip": "D:\\testtask\\back\\testtask\\testtask\\Program.cs",
+              "RelativeToolTip": "testtask\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:07:08.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "D:\\testtask\\back\\testtask\\testtask\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "testtask\\Controllers\\PersonController.cs",
+              "ToolTip": "D:\\testtask\\back\\testtask\\testtask\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "testtask\\Controllers\\PersonController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAIwD0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:01:32.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPerson.cs",
+              "DocumentMoniker": "D:\\testtask\\back\\testtask\\testtask\\Interfaces\\PersonInterface\\IPerson.cs",
+              "RelativeDocumentMoniker": "testtask\\Interfaces\\PersonInterface\\IPerson.cs",
+              "ToolTip": "D:\\testtask\\back\\testtask\\testtask\\Interfaces\\PersonInterface\\IPerson.cs",
+              "RelativeToolTip": "testtask\\Interfaces\\PersonInterface\\IPerson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:00:31.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
